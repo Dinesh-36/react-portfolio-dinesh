@@ -14,6 +14,7 @@ export const PROJECTS = [
     description:
       "Developed a modern, user-friendly Recipe App designed to help users find recipes from various cuisines.Integrated external APIs for fetching recipe data.The app is optimized for a seamless experience across all devices, ensuring accessibility and responsiveness.",
     technologies: ["HTML", "CSS", "JavaScript", "API"],
+    link: "https://food-recipe-app-nine-rho.vercel.app/",
   },
   {
     title: "Landing Page",
@@ -21,6 +22,7 @@ export const PROJECTS = [
     description:
       "Developed a modern, user-friendly Landing Page.The app is optimized for a seamless experience across all devices, ensuring accessibility and responsiveness.",
     technologies: ["HTML", "CSS", "React", "TailwindCSS"],
+    link: "https://landing-page-weld-xi.vercel.app/",
   },
   {
     title: "Portfolio Website",
@@ -28,6 +30,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "TailwindCSS"],
+    link: "https://react-portfolio-dinesh.vercel.app/",
   },
 ];
 
